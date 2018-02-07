@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Mom Quiz</string>
+    <string name="submit_button">submit answers</string>
+    <string name="reset_button">reset</string>
+    <string name="show_answer_reading">two</string>
+    <string name="show_answer7">answer_7</string>
+    <string name="welcome">Welcome To Baby World!</string>
+    <string name="q1">1) Are you new Mom?</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="answer">answer</string>
+    <string name="q2">2) What is gender of your baby?</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="q3">3) what is most emotion do you feeling with your baby?</string>
+    <string name="scared">Scared</string>
+    <string name="tired">tired</string>
+    <string name="worried">worried</string>
+    <string name="enjoyable">enjoyable</string>
+    <string name="worEng">WorriedAndEngoyable</string>
+    <string name="q4">4)  How many times a day does the average newborn eat?</string>
+    <string name="everyHour">On the hour every hour</string>
+    <string name="three">Three meals a day</string>
+    <string name="ten">Eight to ten times</string>
+    <string name="q5">5) How long should you let your newborn cry before responding?</string>
+    <string name="picupDirectly">Pick him up right away instead of letting him cry</string>
+    <string name="tenMin"> Ten to 15 minutes</string>
+    <string name="stop">Untile he stops</string>
+    <string name="directAndAfterTenMin">pickupDirectlyOrAfterTenMinutes</string>
+    <string name="q6">6) When can you start reading to your baby?</string>
+    <string name="reading">When can you start reading</string>
+
+
+
+
+
+
+</resources>

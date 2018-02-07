@@ -1,0 +1,34 @@
+<resources>
+
+    <style name="MyCheckBoxStyle" parent="Widget.AppCompat.CompoundButton.CheckBox">
+        <item name="colorAccent">@color/orange_1</item>
+        <item name="android:textColorSecondary">@color/trquaz</item>
+        <item name="android:textColor">@color/trquaz</item>
+        <item name="android:textSize">@dimen/text_size_normal</item>
+    </style>
+
+    <style name="MyRadioButtonStyle" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="colorAccent">@color/orange_1</item>
+        <item name="android:textColorSecondary">@color/trquaz</item>
+        <item name="android:textColor">@color/trquaz</item>
+        <item name="android:textSize">@dimen/text_size_normal</item>
+    </style>
+
+    <style name="MyButton" parent="Widget.AppCompat.Button.Colored">
+        <item name="colorButtonNormal">@color/orange_1</item>
+        <item name="android:textColor">@color/brown_1</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/yellow</item>
+        <item name="android:textColor">@color/yellow</item>
+        <item name="checkboxStyle">@style/MyCheckBoxStyle</item>
+        <item name="radioButtonStyle">@style/MyRadioButtonStyle</item>
+        <item name="buttonStyle">@style/MyButton</item>
+        <item name="android:textSize">@dimen/text_size_normal</item>
+    </style>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="brown_1">#663D00</color>
+    <color name="brown_2">#4D342A</color>
+    <color name="yellow">#FFC107</color>
+    <color name="trquaz">#2196F3</color>
+    <color name="orange_1">#FF9800</color>
+    <color name="orange_2">#FF5722</color>
+    <color name="bink">#880E4F</color>
+    <color name="bink_2">#FCE4EC</color>
+
+</resources>
